@@ -1,0 +1,6 @@
+watchdog
+openai-whisper
+moviepy
+ffmpeg-python
+numpy
+torch
